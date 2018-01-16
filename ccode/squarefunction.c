@@ -8,7 +8,7 @@ int main( )
 	x, n ;
 	printf ("\Enter some number for the finding square \n");
 	scanf ("%d", &n);
-	x = sqaure ( n );
+	x = square ( n );
 	printf ("nSquare of the given number %d is %d",n,x);
 	printf("\n\n");
 	return 0;
