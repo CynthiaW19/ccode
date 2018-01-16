@@ -1,4 +1,4 @@
-//*******helloworld.c********
+//helloworld.c
 //compile $gcc helloworld.o -o helloworld.o
 //run ./helloworld.o
 
