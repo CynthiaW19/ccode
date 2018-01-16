@@ -1,4 +1,4 @@
-//*******inputint.c*******
+//inputint.c
 #include <stdio.h>
 
 	int main()
