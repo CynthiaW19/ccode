@@ -1,4 +1,4 @@
-//*******hellotime.c*******
+//hellotime.c
 #include <stdio.h>
 #include <time.h>
 int main(){
